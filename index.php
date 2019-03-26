@@ -6,7 +6,7 @@
   Echo "Hello, this is a demo only!";
   echo "<br>";
   echo "Today is: " . "$today";
-  echo "Another feature";
+  echo "<br>Another feature";
 ?>
 
 </html>
